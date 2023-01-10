@@ -1,4 +1,4 @@
-# Improving_customer_centricity_in_eCommerce
+# Improving Customer Centricity in eCommerce
 ![python 3.9.1](https://img.shields.io/pypi/pyversions/pandas?color=green&label=python)
 ![pandas 1.5.2](https://img.shields.io/badge/pandas-1.5.2-blue)
 
