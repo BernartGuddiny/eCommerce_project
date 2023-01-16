@@ -10,4 +10,4 @@ This project looks like a template for an exploratory business analysis of a com
 - To find out the average number of non-deliverable orders per month, detailing their reasons;
 - To identify a favorable day of the week to buy each product.
 - To find the average number of purchases per week for each customer.
-- To conduct a Cohort Analysis of the data and find the highest Retention Rate in the third month.
+- To perform a Cohort Analysis of the data and find the highest Retention Rate in the third month.
