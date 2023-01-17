@@ -11,4 +11,4 @@ This project looks like a template for an exploratory business analysis of a com
 - To identify a favorable day of the week to buy each product.
 - To find the average number of purchases per week for each customer.
 - To perform a Cohort Analysis of the data and find the highest Retention Rate in the third month.
-- To perform a RFM Analysis of the data for each user and average the RFM-metrics for each cluster.
+- To perform an RFM Analysis of the data for each user and average the RFM-metrics for each cluster.
