@@ -37,3 +37,8 @@ This project looks like a template for an exploratory business analysis of a com
 - shipping_limit_date — maximum date of delivery by the seller to transfer the order to the logistics partner;
 - price — price per item;
 - freight_value — goods weight.
+
+### **Conclusions**
+After conducting a Cohort Analysis and looking at the Retention Rate distribution table, I can say with high confidence that customers like the products and are ready to buy more purchases. In the end, the analysis of the RFM user cluster showed that the majority of customers are users of the `normal_customers` segment, which is **65,050 people**, on which a general marketing campaign can be run. To increase customer centricity, it is necessary to select an individual way of communication and maintaining loyalty to the product. I also think it is necessary to strive to move `loyal_customers` and `recent_customers` into the segment of `best_customers` who make more frequent purchases.
+
+For more details, please refer to the the **full analysis**.
